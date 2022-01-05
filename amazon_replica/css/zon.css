@@ -1,0 +1,120 @@
+body, html{
+    background-color: white;
+}
+.logo{
+    margin-left: 900px;
+    margin-bottom:80px;
+    margin-top:100px;
+}
+#main{
+    border-style: solid ;
+    border-width: 0.1px;
+    border-color:lightgray;
+    
+}
+.new-amazon p{
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+   margin-top:80px;
+   
+}
+
+p span{
+    background:#fff; 
+    padding:0 10px;
+}
+
+.button button{
+    background-color:#f4b400;
+    width:420px;
+    height:30px;
+    margin:20px;
+    margin-top: 10px;
+    margin-bottom:18px;
+    margin-left:8px;
+
+}
+.create-account button{
+    width:420px;
+    height:30px;
+    margin:20px;
+    margin-top: 10px;
+    margin-bottom:18px;
+    margin-left:750px;
+    
+}
+#main{
+    width:450px;
+    height:350px;
+    margin:0 auto;
+    
+}
+
+.sign-in{
+    font-family: sans-serif;
+    margin-left:10px;
+}
+
+text, input{
+    padding: 8px
+
+}
+.password-box{
+    margin:20px;
+    margin-left:8px;
+    margin-top:9px;
+}
+
+.email-box{
+    margin:20px;
+    margin-left:8px;
+    margin-top:10px;
+}
+
+.need-help a{
+    color:#0080ff;
+    margin-left: 8px;
+}
+.need-help :hover{
+    color:chocolate;
+
+}
+.password-label a:hover{
+    color:chocolate;
+
+}
+.password-label a{
+    color:#0080ff;
+    float:right;
+    margin-right: 29px;
+}
+
+.password-label{
+    margin-left:15px;
+    margin-bottom:0px;
+}
+.email-label span{
+    margin-left:15px;
+    
+}
+.button button:hover{
+    color:#0080ff;
+}
+
+footer{
+    text-align: center;
+    margin-top:30px;
+}
+
+.conditions{
+    text-align:center;
+}
+.conditions span{
+    color:#0080ff;
+}
+.conditions :hover{
+    color:chocolate;
+}
